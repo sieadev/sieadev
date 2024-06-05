@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hey im Finley also known as siea(dev).
-I‘m currently developing **a GUI-Framework for Mineraft**
+I‘m currently developing **porting Discord2FA to velocity**
 
 
 ## 🌐 Socials:
