@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hey im Finley also known as siea(dev).
-I‘m currently **doing commissions cause I need to pay rent**
+I‘m currently **taking a break**
 
 
 ## 🌐 Socials:
