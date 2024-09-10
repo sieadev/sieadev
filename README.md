@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hey im Finley also known as siea(dev).
-I‘m currently **taking a break**
+I‘m currently working on **a modular Discord Bot**
 
 
 ## 🌐 Socials:
