@@ -1,6 +1,7 @@
 ## 💫 About Me:
-Hey, I'm Finley also known as siea(dev) I am an 18-year-old Student from Germany. I've been coding since I was 15 and have found great joy in backend development!
-I‘m currently working on **MoBot** 
+Hey, I'm Finley also known as siea(dev) I am an 18-year-old Student from Germany. I've been coding since I was 15 and have found great joy in backend development!  
+
+You should definitely check out [**Flash**](https://github.com/Pixel-Services/flash) :D
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/VjqYG3dN9K) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sieadev) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/ssiea) [![wakatime](https://wakatime.com/badge/user/b82ef4dd-f8ed-4399-91fd-ca779eabb223.svg)](https://wakatime.com/@b82ef4dd-f8ed-4399-91fd-ca779eabb223)  
 
