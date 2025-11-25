@@ -11,7 +11,7 @@
 </p>
 
 ## 💫 About Me:
-Hey, I'm Finley, also known as siea(dev). I am an 18-year-old Student from Germany. I've been coding since I was 15 and have found great joy in backend development!  
+Hey, I'm Finley, also known as siea(dev). I am an 19-year-old Student from Germany. I've been coding since I was 15 and have found great joy in backend development!  
 
 Currently Working on:
 - [**Jonion**](https://github.com/sieadev/Jonion/) — A lightweight, flexible plugin framework for Java applications
