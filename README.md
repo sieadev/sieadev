@@ -14,8 +14,7 @@
 Hey, I'm Finley, also known as siea(dev). I am an 19-year-old Student from Germany. I've been coding since I was 15 and have found great joy in backend development!  
 
 Currently Working on:
-- [**Jonion**](https://github.com/sieadev/Jonion/) — A lightweight, flexible plugin framework for Java applications
-- [**MoBot**](https://github.com/Pixel-Services/mobot) — A modular bot framework for Discord
+- [**Bamboo**](https://github.com/sieadev/Bamboo/) — A Minecraft Modding Scaffolder.
 
 
 ## 💻 Tech Stack:
